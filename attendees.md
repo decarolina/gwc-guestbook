@@ -1,10 +1,14 @@
 # gwc-guestbook
-Check in for the GWC @ AU meeting by dropping your name, username, and your favorite snack in this repository!
+Check in for the GWC @ AU meeting by copying this template and filling it out at the BOTTOM OF THIS FILE!
 
-Name: Carolina
+Name: 
 
-Github username: decarolina
+Github username:
+
+Major:
 
 Favortie Snack: cookies
 
-Little message for gwc ⸜(｡˃ ᵕ ˂ )⸝♡: I LOVE GIRLS WHO CODE!!!!!!
+Little message for gwc ⸜(｡˃ ᵕ ˂ )⸝♡: 
+
+<-------COPY UNDER HERE-------->
