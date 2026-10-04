@@ -12,3 +12,13 @@ Favortie Snack: cookies
 Little message for gwc ⸜(｡˃ ᵕ ˂ )⸝♡: 
 
 <-------COPY UNDER HERE-------->
+
+Name: Carolina
+
+Github username: decarolina
+
+Major: CS
+
+Favortie Snack: cookies
+
+Little message for gwc ⸜(｡˃ ᵕ ˂ )⸝♡: yippee
